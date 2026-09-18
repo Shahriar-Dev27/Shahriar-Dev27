@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Shahriar Islam Dip 👋<br><br><div align="center"><br><br>### Full Stack Developer | AI Enthusiast | Problem Solver<br><br>Building modern applications, exploring emerging technologies, and turning ideas into scalable digital experiences.<br><br></div><br><br>---<br><br>## 🚀 About Me<br><br>I'm Shahriar Islam Dip, a passionate developer focused on creating impactful software solutions.<br><br>I enjoy working across different areas of technology — from building web applications to exploring artificial intelligence, automation, and modern development practices.<br><br>Currently focusing on:<br><br>- 🌐 Full Stack Web Development<br>- 🤖 Artificial Intelligence & Machine Learning<br>- ⚡ Scalable Software Architecture<br>- 🧩 Problem Solving & Open Source<br><br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br><br><p><br>Python • JavaScript • TypeScript • C++ • Java • SQL<br></p><br><br><br>### Frontend Development<br><br><p><br>React.js • Next.js • HTML5 • CSS3 • Tailwind CSS<br></p><br><br><br>### Backend Development<br><br><p><br>Node.js • Express.js • REST APIs • Database Design<br></p><br><br><br>### AI / Data<br><br><p><br>Machine Learning • Deep Learning • Data Analysis • Computer Vision<br></p><br><br><br>### Tools & Platforms<br><br><p><br>Git • GitHub • Linux • Docker • VS Code • Cloud Platforms<br></p><br><br>---<br><br># 🌟 Featured Projects<br><br>## 🚀 Project One<br><br>A modern application focused on solving real-world problems with clean architecture and user-friendly design.<br><br>**Tech Stack:**<br>`React` `Node.js` `Database`<br><br><br>---<br><br>## 🤖 AI / Machine Learning Project<br><br>Exploring intelligent systems using machine learning models and data-driven approaches.<br><br>**Tech Stack:**<br>`Python` `ML` `Data Processing`<br><br><br>---<br><br>## 🌐 Full Stack Application<br><br>A complete web solution with frontend, backend, authentication, and database integration.<br><br>**Tech Stack:**<br>`Next.js` `API` `Database`<br><br><br>---<br><br># 📊 GitHub Analytics<br><br><div align="center"><br><br>![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)<br><br></div><br><br>---<br><br># 🔥 Contribution Activity<br><br><div align="center"><br><br>![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)<br><br></div><br><br>---<br><br># 📚 Currently Learning<br><br>- Advanced Full Stack Development<br>- AI Engineering<br>- Software Architecture<br>- Cloud Technologies<br>- Open Source Contribution<br><br><br>---<br><br># 🤝 Let's Connect<br><br><p align="center"><br><br>LinkedIn • Portfolio • Email • GitHub<br><br></p><br><br><br>---<br><br><div align="center"><br><br>### "Building. Learning. Improving. Every day."<br><br></div>
 
-<!--
-**Shahriar-Dev27/Shahriar-Dev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShaHriar Dip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahriar-islam-536900229) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shahriar islam DIP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipshahriar27@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shahriar-Dev27&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Shahriar-Dev27&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahriar-Dev27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shahriar-Dev27&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shahriar-Dev27&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Shahriar-Dev27&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
